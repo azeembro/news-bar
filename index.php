@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>News Bar</title>
 </head>
 <body>
 
@@ -32,7 +32,7 @@
     padding: 25px 0;
     background-color: #12239b;
     color: white;
-    font-family: Gelasio;
+    font-family: Arial;
     font-size: 18px;
     }
 
